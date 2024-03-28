@@ -1,0 +1,25 @@
+#titulo__principal {
+    background-color: #e5a100;
+    color: #370091;
+    border-radius: 20px;
+    max-width: 400px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5% auto 10px;
+}
+
+.main__jogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    margin: 5%;
+}
+
+.autor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
